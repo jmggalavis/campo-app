@@ -1,0 +1,10 @@
+
+# docker-compose.prod.yml (plantilla vacía, se llenará en pasos siguientes)
+version: "3.9"
+services:
+  # traefik:
+  # backend:
+  # frontend:
+  # mariadb:
+  # minio:
+volumes: {}

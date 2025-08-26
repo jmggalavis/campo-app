@@ -1,0 +1,11 @@
+
+# traefik.yml (estático) - se completará en pasos posteriores
+api:
+  dashboard: true
+entryPoints:
+  web:
+    address: ":80"
+  websecure:
+    address: ":443"
+providers:
+  docker: {}
